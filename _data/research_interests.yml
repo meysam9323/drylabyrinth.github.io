@@ -60,3 +60,7 @@
   tag: "sleep"
 - name: "Otolaryngology"
   tag: "otolaryngology"
+- name: "Deep Learning"
+  tag: "dl"
+- name: "Speech Recognition"
+  tag: "speech recognition"
